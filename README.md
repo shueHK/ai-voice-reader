@@ -1,2 +1,3 @@
 # ai-voice-reader
-Free text-to-speech reader
+AI-created text-to-voice reading website. 
+Totally free.
